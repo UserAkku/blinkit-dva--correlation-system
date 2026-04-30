@@ -2,11 +2,7 @@
 
 > A 4-page interactive analytics system built on Looker Studio, powered by a VLOOKUP-engineered Master Table derived from Blinkit's raw and cleaned grocery datasets. Designed to surface hidden correlations across operations, revenue, customer experience, and inventory risk.
 
----
 
-## 🔗 Live Dashboard
-
-👉 **[View Correlation Intelligence System on Looker Studio](#)** ← *(replace `#` with your Looker Studio share link)*
 
 ---
 
